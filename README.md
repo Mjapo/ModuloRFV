@@ -18,5 +18,5 @@ Para cada cliente é preciso calcular cada uma das componentes abaixo:
 
 
 MARCELO ISHIDA TAKEYA 
- CIENTISTA DE DADOS 
+ 
 
